@@ -2,7 +2,7 @@
 
 [Ссылка на демонстрацию](https://ri-yarm.github.io/react-map-maplibre/)
 
-Проект написан с исспользованием vite, redux toolkit, maplibre
+Проект написан с исспользованием vite, redux toolkit, typescript, maplibre
 
 ![img.png](img.png)
 
