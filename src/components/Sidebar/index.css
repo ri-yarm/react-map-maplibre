@@ -9,3 +9,9 @@
 .sidebar-wrap h3 {
     margin: 0;
 }
+
+@media (max-width: 768px) {
+    .sidebar-wrap {
+        display: none;
+    }
+}
