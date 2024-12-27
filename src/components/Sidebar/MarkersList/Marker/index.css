@@ -1,0 +1,21 @@
+.marker {
+    margin-top: 16px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.marker h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.marker p {
+    margin: 0;
+    padding: 0;
+}
+
+.marker button {
+    /*margin-top: 10px;*/
+}
